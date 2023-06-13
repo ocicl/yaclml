@@ -1,0 +1,10 @@
+* yaclml
+
+Yet Another Common Lisp Markup Language, originally by Edward Marco Baringer
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/yaclml.git   |
+| commit  | ee514f5  |
+| systems | yaclml |
+|---------+-------------------------------------------|
+
